@@ -32,3 +32,4 @@ While based on the original Koala, this build ("LumiTone S1") introduces the fol
 https://github.com/user-attachments/assets/3ea72efb-40e6-4190-b0d5-7ef0238ab249
 
 
+Personal fork by JJ-Duf
